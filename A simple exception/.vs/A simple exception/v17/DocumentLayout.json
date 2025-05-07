@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Games\\Prodgect\\A simple exception\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B37DFEFC-F5EE-4D91-801F-051538C847B6}|A simple exception\\A simple exception.vcxproj|C:\\Games\\Prodgect\\A simple exception\\A simple exception\\A simple exception.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B37DFEFC-F5EE-4D91-801F-051538C847B6}|A simple exception\\A simple exception.vcxproj|solutionrelative:A simple exception\\A simple exception.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A simple exception.cpp",
+              "DocumentMoniker": "C:\\Games\\Prodgect\\A simple exception\\A simple exception\\A simple exception.cpp",
+              "RelativeDocumentMoniker": "A simple exception\\A simple exception.cpp",
+              "ToolTip": "C:\\Games\\Prodgect\\A simple exception\\A simple exception\\A simple exception.cpp",
+              "RelativeToolTip": "A simple exception\\A simple exception.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-05T06:51:59.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
